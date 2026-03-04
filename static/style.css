@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+}
+
+form {
+    margin: 20px auto;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin: 8px 0;
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+.message {
+    color: red;
+    list-style: none;
+}
