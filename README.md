@@ -63,8 +63,8 @@ flask_auth_project/
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/flask-auth-project.git
-cd flask-auth-project
+https://github.com/irfanalam786/Flask-User-Authentication-System.git
+cd Flask-User-Authentication-System
 ```
 
 ## 2️⃣ Create Virtual Environment (Recommended)
