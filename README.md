@@ -182,7 +182,6 @@ After completing this project, you will:
 
 # 👨‍💻 Author
 
-Your Name
 IRFAN ALAM
 
 ---
